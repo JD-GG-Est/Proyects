@@ -1,0 +1,2 @@
+Se presenta el análisis de la serie temporal de la temperautra promedio semanal en la ciudad de Nueva Delhi utilizando el software R.
+Se realizó el ajuste de un modelo SARIMA Y SARIMA-X para evaluar la mejoria en el ajuste al agregar variables exógenas.
